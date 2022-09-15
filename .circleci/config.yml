@@ -29,8 +29,7 @@ jobs:
           name: Run lint
           command: |
             source .devops-capstone/bin/activate
-            make lint 
-            make build-docker
+            make lint
 
 workflows:
   default:
