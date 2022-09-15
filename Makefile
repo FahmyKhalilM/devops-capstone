@@ -1,5 +1,5 @@
 ## The Makefile includes instructions on: 
-# environment setup, install, lint and build
+# environment setupp, install, lint and build
 
 #Vars
 CLUSTER_NAME=hello
